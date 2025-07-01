@@ -18,6 +18,13 @@ https://www.kaggle.com/datasets/mozillaorg/common-voice?select=cv-valid-train
 
 ---
 
+---
+## Web app link
+
+https://cufxheqjzuuhqztbdtye4w.streamlit.app/
+
+---
+
 ## 🛠️ Tech Stack
 
 | Category         | Tools Used                        |
