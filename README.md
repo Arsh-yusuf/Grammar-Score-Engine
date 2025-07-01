@@ -12,11 +12,9 @@ A multimodal AI application that predicts the **grammar quality score** of spoke
 - 📈 **Visualizations** — waveform and MFCC plots with `matplotlib` and `librosa`
 - 📁 **Downloadable Report** — CSV file with extracted features and predicted score
 
----
-
-## 🚀 Demo
-
-![App Screenshot](https://via.placeholder.com/800x400?text=Upload+Audio+%7C+Get+Grammar+Score+%7C+Visualize)
+----
+## Dataset Link
+https://www.kaggle.com/datasets/mozillaorg/common-voice?select=cv-valid-train
 
 ---
 
